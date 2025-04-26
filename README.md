@@ -1,8 +1,8 @@
-<h1 align="center">Sobre mim!!</h1>
+<h1 align="center">ABOUT ME!</h1>
 
 ###
 
-<p align="center">-Beginner<br>  -Software developer<br>  -mechanical apprentice</p>
+<p align="center">Hello, I am a Computer Science student specializing in Full Stack development, currently residing in Belo Horizonte, Brazil. </p>
 
 ###
 
