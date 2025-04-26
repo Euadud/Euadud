@@ -16,12 +16,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ </p>
 
 ###
 ### 
 
-<h2 align="left">I code with</h2>
+<h2 align="left">・.・✫・ Languages ​​and Technologies 🌸꒱:</h2>
 
 ###
 
