@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Maria Eduarda and I'm a Computer Science student from razil</p>
+<p align="left">My name is Maria Eduarda and I'm a Computer Science student from Brazil</p>
 
 ###
 
